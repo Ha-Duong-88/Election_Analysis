@@ -17,7 +17,7 @@ This project is to conduct a congressional election audit for the Colorado Board
   
   * The following is a print-out from the command line of the break-down of the number of votes and the percentage of the votes for each county and candidate in the precinct
 
-  Election Results
+  ### Election Results
   -------------------------
   Total Votes: 369,711
   -------------------------

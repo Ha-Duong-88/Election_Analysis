@@ -22,7 +22,7 @@ This project is to conduct an election audit for the Colorado Board of Elections
   ### Total Votes: 369,711
   -------------------------
 
-  County Votes:
+  ### County Votes:
   Jefferson: 10.5% (38,855)
   Denver: 82.8% (306,055)
   Arapahoe: 6.7% (24,801)

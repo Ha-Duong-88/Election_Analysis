@@ -1,7 +1,7 @@
 # Election_Analysis
 Module 3 - Python 3.7.6 and VSC
 
-# Overview of Election Audit: Explain the purpose of this election audit analysis.
+# Overview of Election Audit
 
 This project is to conduct a congressional election audit for the Colorado Board of Elections. The objective to analyze the election data and determine the following information for the election:
   1) Total number of votes cast
@@ -15,20 +15,19 @@ This project is to conduct a congressional election audit for the Colorado Board
   * How many votes were cast in this congressional election?
   The total number of votes cast was 369, 711
   
-  * The following is a break-down of the number of votes and the percentage of the votes for each county and candidate in the precinct:
+  * The following is a print-out from the command line on the break-down of the number of votes and the percentage of the votes for each county and candidate in the precinct
 
-<Insert image>
-Election Results
+**### Election Results**
 -------------------------
-Total Votes: 369,711
+**### Total Votes: 369,711**
 -------------------------
 
-County Votes:
+**###County Votes:**
 Jefferson: 10.5% (38,855)
 Denver: 82.8% (306,055)
 Arapahoe: 6.7% (24,801)
 -------------------------
-County with largest turnout: Arapahoe
+**###County with largest turnout: Arapahoe**
 Charles Casper Stockham: 23.0% (85,213)
 Diana DeGette: 73.8% (272,892)
 Raymon Anthony Doane: 3.1% (11,606)

@@ -42,7 +42,8 @@ Raymon Anthony Doane: 3.1% (11,606)
 ### Winning Percentage: 73.8%
 -------------------------
   
- 
+Attached is an image of the terminal print out: (https://user-images.githubusercontent.com/80140082/113513932-c1eda080-9520-11eb-87e9-b9198b347248.png)
+
    * The county with the largest vote was Denver with 82.8% (306,055) of the total votes.
 
    * Below is a summary of the number of votes and the percentage of the total votes each candidate received.

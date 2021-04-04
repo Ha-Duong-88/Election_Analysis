@@ -3,7 +3,7 @@ Module 3 - Python 3.7.6 and VSC
 
 # Overview of Election Audit
 
-This project is to conduct a congressional election audit for the Colorado Board of Elections. The objective to analyze the election data and determine the following information for the election:
+This project is to conduct an election audit for the Colorado Board of Elections. The objective to analyze the election data and determine the following information for the election:
   1) Total number of votes cast
   2) A complete list of candidates who received votes
   3) Total number of votes each candidate received

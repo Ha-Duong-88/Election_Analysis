@@ -38,7 +38,7 @@ This project is to conduct an election audit for the Colorado Board of Elections
   Raymon Anthony Doane: 3.1% (11,606)
 
   -------------------------
-  Winner: Diana DeGette
+  ### Winner: Diana DeGette
   Winning Vote Count: 272,892
   Winning Percentage: 73.8%
   -------------------------

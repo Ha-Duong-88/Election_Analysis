@@ -17,25 +17,6 @@ This project is to conduct a congressional election audit for the Colorado Board
   
   * The following is a print-out from the command line on the break-down of the number of votes and the percentage of the votes for each county and candidate in the precinct
 
-** ### Election Results**
--------------------------
-**### Total Votes: 369,711**
--------------------------
-
-**###County Votes:**
-Jefferson: 10.5% (38,855)
-Denver: 82.8% (306,055)
-Arapahoe: 6.7% (24,801)
--------------------------
-**###County with largest turnout: Arapahoe**
-Charles Casper Stockham: 23.0% (85,213)
-Diana DeGette: 73.8% (272,892)
-Raymon Anthony Doane: 3.1% (11,606)
--------------------------
-Winner: Diana DeGette
-Winning Vote Count: 272,892
-Winning Percentage: 73.8%
--------------------------
   
  
     * Which county had the largest number of votes?

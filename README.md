@@ -19,7 +19,7 @@ This project is to conduct a congressional election audit for the Colorado Board
 
   ### Election Results
   -------------------------
-  Total Votes: 369,711
+  ### Total Votes: 369,711
   -------------------------
 
   County Votes:
@@ -28,7 +28,7 @@ This project is to conduct a congressional election audit for the Colorado Board
   Arapahoe: 6.7% (24,801)
 
   -------------------------
-  Largest County Turnout: Denver
+  ### Largest County Turnout: Denver
   -------------------------
 
   Charles Casper Stockham: 23.0% (85,213)

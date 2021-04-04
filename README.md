@@ -32,6 +32,9 @@ This project is to conduct a congressional election audit for the Colorado Board
     * Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
     The winning candidate was Diana DeGette with 73.8% or 272, 892 of the total votes for the county.
+    
+Attached is a link to the elections_analysis.txt for the elections results.
+
 
 # Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 

@@ -17,7 +17,31 @@ This project is to conduct a congressional election audit for the Colorado Board
   
   * The following is a print-out from the command line on the break-down of the number of votes and the percentage of the votes for each county and candidate in the precinct
 
-  
+  Election Results
+  -------------------------
+  Total Votes: 369,711
+  -------------------------
+
+  County Votes:
+  Jefferson: 10.5% (38,855)
+  Denver: 82.8% (306,055)
+  Arapahoe: 6.7% (24,801)
+
+  -------------------------
+  Largest County Turnout: Denver
+  -------------------------
+
+  Charles Casper Stockham: 23.0% (85,213)
+
+  Diana DeGette: 73.8% (272,892)
+
+  Raymon Anthony Doane: 3.1% (11,606)
+
+  -------------------------
+  Winner: Diana DeGette
+  Winning Vote Count: 272,892
+  Winning Percentage: 73.8%
+  -------------------------
  
     * Which county had the largest number of votes?
     
@@ -34,7 +58,7 @@ This project is to conduct a congressional election audit for the Colorado Board
     The winning candidate was Diana DeGette with 73.8% or 272, 892 of the total votes for the county.
     
 Attached is a link to the elections_analysis.txt for the elections results.
-
+https://github.com/Ha-Duong-88/Election_Analysis/blob/main/analysis/election_analysis.txt
 
 # Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 

@@ -40,14 +40,18 @@ Winning Percentage: 73.8%
   
  
     * Which county had the largest number of votes?
- The county with the largest vote was XYZ - supposed to be Denver and not Arapahoe
+    
+    The county with the largest vote was XYZ - supposed to be Denver and not Arapahoe
 
     * Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
-See above -- 
+    
+        * Charles Casper Stockham: 23.0% (85,213)
+        * Diana DeGette: 73.8% (272,892)
+        * Raymon Anthony Doane: 3.1% (11,606)
 
     * Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
-The winning candidate was Diana DeGette with 73.8% or 272, 892 of the total votes for the county.
+    The winning candidate was Diana DeGette with 73.8% or 272, 892 of the total votes for the county.
 
 # Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 

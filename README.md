@@ -10,12 +10,12 @@ This project is to conduct a congressional election audit for the Colorado Board
   4) Percentage of votes each candidate won
   5) The winner of the election based on popular vote
 
-# Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
+# Election-Audit Results
 
   * How many votes were cast in this congressional election?
   The total number of votes cast was 369, 711
   
-  * The following is a print-out from the command line on the break-down of the number of votes and the percentage of the votes for each county and candidate in the precinct
+  * The following is a print-out from the command line of the break-down of the number of votes and the percentage of the votes for each county and candidate in the precinct
 
   Election Results
   -------------------------
@@ -43,28 +43,24 @@ This project is to conduct a congressional election audit for the Colorado Board
   Winning Percentage: 73.8%
   -------------------------
  
-    * Which county had the largest number of votes?
-    
-    The county with the largest vote was XYZ - supposed to be Denver and not Arapahoe
+   * The county with the largest vote was Denver with 82.8% (306,055) of the total votes.
 
-    * Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+   * Below is a summary of the number of votes and the percentage of the total votes each candidate received.
     
         * Charles Casper Stockham: 23.0% (85,213)
         * Diana DeGette: 73.8% (272,892)
         * Raymon Anthony Doane: 3.1% (11,606)
 
-    * Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
-
-    The winning candidate was Diana DeGette with 73.8% or 272, 892 of the total votes for the county.
+   * The winning candidate was Diana DeGette with 73.8% or 272, 892 of the total votes for the county.
     
 Attached is a link to the elections_analysis.txt for the elections results.
 https://github.com/Ha-Duong-88/Election_Analysis/blob/main/analysis/election_analysis.txt
 
-# Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+# Election-Audit Summary
 
 This Python elections audit analysis script can be leveraged for any elections with some minor modifcations. To enable re-use of the script, the following modifications to this script are proposed:
 
-    1) Remove the print statements and only print to a text file to optimize the code run-time performance; 
-    2) 
+    1) Remove the print statements and only print to a text file to optimize the code run-time performance. 
+    2) Modify the county name for state elections to state name for congressional elections.
 
 

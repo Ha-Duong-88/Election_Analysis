@@ -1,5 +1,6 @@
 # Election_Analysis
-Module 3 - Python 3.7.6 and VSC
+Module 3 - Python 3.7.6 and Visual Studio Code
+PyPoll Challenge
 
 # Overview of Election Audit
 

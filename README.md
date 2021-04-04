@@ -12,8 +12,7 @@ This project is to conduct an election audit for the Colorado Board of Elections
 
 # Election-Audit Results
 
-  * How many votes were cast in this congressional election?
-  The total number of votes cast was 369, 711
+  * The total number of votes cast was 369, 711
   
   * The following is a print-out from the command line of the break-down of the number of votes and the percentage of the votes for each county and candidate in the precinct
 
@@ -43,7 +42,6 @@ Raymon Anthony Doane: 3.1% (11,606)
 ### Winning Percentage: 73.8%
 -------------------------
   
-  -------------------------
  
    * The county with the largest vote was Denver with 82.8% (306,055) of the total votes.
 

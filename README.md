@@ -15,11 +15,45 @@ This project is to conduct a congressional election audit for the Colorado Board
   * How many votes were cast in this congressional election?
   The total number of votes cast was 369, 711
   
-  * Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+  * The following is a break-down of the number of votes and the percentage of the votes for each county and candidate in the precinct:
 
+<Insert image>
+Election Results
+-------------------------
+Total Votes: 369,711
+-------------------------
 
-Which county had the largest number of votes?
-Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
-Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
-Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+County Votes:
+Jefferson: 10.5% (38,855)
+Denver: 82.8% (306,055)
+Arapahoe: 6.7% (24,801)
+-------------------------
+County with largest turnout: Arapahoe
+Charles Casper Stockham: 23.0% (85,213)
+Diana DeGette: 73.8% (272,892)
+Raymon Anthony Doane: 3.1% (11,606)
+-------------------------
+Winner: Diana DeGette
+Winning Vote Count: 272,892
+Winning Percentage: 73.8%
+-------------------------
+  
+ 
+    * Which county had the largest number of votes?
+ The county with the largest vote was XYZ - supposed to be Denver and not Arapahoe
+
+    * Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+See above -- 
+
+    * Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+
+The winning candidate was Diana DeGette with 73.8% or 272, 892 of the total votes for the county.
+
+# Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+
+This Python elections audit analysis script can be leveraged for any elections with some minor modifcations. To enable re-use of the script, the following modifications to this script are proposed:
+
+    1) Remove the print statements and only print to a text file to optimize the code run-time performance; 
+    2) 
+
 

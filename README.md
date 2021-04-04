@@ -39,9 +39,9 @@ This project is to conduct an election audit for the Colorado Board of Elections
 
   -------------------------
   ### Winner: Diana DeGette
-  Winning Vote Count: 272, 892
   Winning Vote Count: 272,892
   Winning Percentage: 73.8%
+  
   -------------------------
  
    * The county with the largest vote was Denver with 82.8% (306,055) of the total votes.
